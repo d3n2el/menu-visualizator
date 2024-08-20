@@ -1,0 +1,1 @@
+You need csv,tabulate,sys and os libraries. you should (in theory)only install tabulate with pip install tabulate
